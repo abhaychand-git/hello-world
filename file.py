@@ -5,8 +5,5 @@ def find(x):
 
 
 find(11)
-gfyityuoigfd
-sdfghjk
-sdfghj
 
         
