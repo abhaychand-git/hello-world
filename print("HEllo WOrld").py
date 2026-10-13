@@ -1,2 +1,2 @@
 print("HEllo WOrld")
-for i in range(100)
+print("Abhay Chand")
